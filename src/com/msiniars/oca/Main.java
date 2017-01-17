@@ -1,4 +1,4 @@
-package com.capgemini.msiniars;
+package com.msiniars.oca;
 
 public class Main {
 
